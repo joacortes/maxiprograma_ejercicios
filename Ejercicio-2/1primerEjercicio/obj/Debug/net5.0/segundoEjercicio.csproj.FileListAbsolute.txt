@@ -1,0 +1,16 @@
+Z:\Curso Maxiprograma\Nivel 1\Ejercicio-2\segundoEjercicio\bin\Debug\net5.0\segundoEjercicio.exe
+Z:\Curso Maxiprograma\Nivel 1\Ejercicio-2\segundoEjercicio\bin\Debug\net5.0\segundoEjercicio.deps.json
+Z:\Curso Maxiprograma\Nivel 1\Ejercicio-2\segundoEjercicio\bin\Debug\net5.0\segundoEjercicio.runtimeconfig.json
+Z:\Curso Maxiprograma\Nivel 1\Ejercicio-2\segundoEjercicio\bin\Debug\net5.0\segundoEjercicio.runtimeconfig.dev.json
+Z:\Curso Maxiprograma\Nivel 1\Ejercicio-2\segundoEjercicio\bin\Debug\net5.0\segundoEjercicio.dll
+Z:\Curso Maxiprograma\Nivel 1\Ejercicio-2\segundoEjercicio\bin\Debug\net5.0\segundoEjercicio.pdb
+Z:\Curso Maxiprograma\Nivel 1\Ejercicio-2\segundoEjercicio\obj\Debug\net5.0\segundoEjercicio.csproj.AssemblyReference.cache
+Z:\Curso Maxiprograma\Nivel 1\Ejercicio-2\segundoEjercicio\obj\Debug\net5.0\segundoEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Curso Maxiprograma\Nivel 1\Ejercicio-2\segundoEjercicio\obj\Debug\net5.0\segundoEjercicio.AssemblyInfoInputs.cache
+Z:\Curso Maxiprograma\Nivel 1\Ejercicio-2\segundoEjercicio\obj\Debug\net5.0\segundoEjercicio.AssemblyInfo.cs
+Z:\Curso Maxiprograma\Nivel 1\Ejercicio-2\segundoEjercicio\obj\Debug\net5.0\segundoEjercicio.csproj.CoreCompileInputs.cache
+Z:\Curso Maxiprograma\Nivel 1\Ejercicio-2\segundoEjercicio\obj\Debug\net5.0\segundoEjercicio.dll
+Z:\Curso Maxiprograma\Nivel 1\Ejercicio-2\segundoEjercicio\obj\Debug\net5.0\refint\segundoEjercicio.dll
+Z:\Curso Maxiprograma\Nivel 1\Ejercicio-2\segundoEjercicio\obj\Debug\net5.0\segundoEjercicio.pdb
+Z:\Curso Maxiprograma\Nivel 1\Ejercicio-2\segundoEjercicio\obj\Debug\net5.0\segundoEjercicio.genruntimeconfig.cache
+Z:\Curso Maxiprograma\Nivel 1\Ejercicio-2\segundoEjercicio\obj\Debug\net5.0\ref\segundoEjercicio.dll
