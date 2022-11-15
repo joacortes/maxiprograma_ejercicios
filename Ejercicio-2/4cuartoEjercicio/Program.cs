@@ -9,7 +9,7 @@ namespace _4cuartoEjercicio
         {
             double totalFacturado, sueldoTotalFacturado;
             const double SUELDO = 15000.00;
-            const double COMISION = 1.05;
+            const double COMISION = 0.05;
 
             Console.WriteLine("Ingrese el total facturado");
             totalFacturado = double.Parse(Console.ReadLine());
