@@ -15,8 +15,12 @@ namespace _2_segundoEjercicio
                 Console.WriteLine("Ingrese un número: ");
                 numero = int.Parse(Console.ReadLine());
 
-                if(numero > mayor){
+                if(i == 0){
                     mayor = numero;
+                }else{
+                    if(numero > mayor){
+                        mayor = numero;
+                    }
                 }
             }
 
