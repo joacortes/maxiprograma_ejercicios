@@ -8,17 +8,25 @@ namespace _5_quintoEjercicio
         static void Main(string[] args)
         {
             int n, mayorPares = 0, mayorImpares = 0; 
-
+            bool flagPar = false, flagImpar = false;
             for(int i = 0; i < 20; i++){
                 Console.WriteLine("Ingrese un número: ");
                 n = int.Parse(Console.ReadLine());
                 
                 if(n % 2 == 0){
-                    if(n > mayorPares){
+                    if(flagPar == false){
+                        mayorPares = n;
+                        flagPar = true;
+                    }
+                    else if(n > mayorPares){
                         mayorPares = n;
                     }
                 }else{
-                    if(n > mayorImpares){
+                    if(flagImpar == false){
+                        mayorImpares = n;
+                        flagImpar = true;
+                    }
+                    else if(n > mayorImpares){
                         mayorImpares = n;
                     }
                 }
