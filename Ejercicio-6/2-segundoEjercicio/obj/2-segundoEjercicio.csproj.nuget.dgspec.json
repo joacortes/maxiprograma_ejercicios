@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Curso Maxiprograma\\Nivel 1\\Ejercicio-5\\5-quintoEjercicio\\5-quintoEjercicio.csproj": {}
+    "Z:\\Curso Maxiprograma\\Nivel 1\\Ejercicio-6\\2-segundoEjercicio\\2-segundoEjercicio.csproj": {}
   },
   "projects": {
-    "Z:\\Curso Maxiprograma\\Nivel 1\\Ejercicio-5\\5-quintoEjercicio\\5-quintoEjercicio.csproj": {
+    "Z:\\Curso Maxiprograma\\Nivel 1\\Ejercicio-6\\2-segundoEjercicio\\2-segundoEjercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Curso Maxiprograma\\Nivel 1\\Ejercicio-5\\5-quintoEjercicio\\5-quintoEjercicio.csproj",
-        "projectName": "5-quintoEjercicio",
-        "projectPath": "Z:\\Curso Maxiprograma\\Nivel 1\\Ejercicio-5\\5-quintoEjercicio\\5-quintoEjercicio.csproj",
+        "projectUniqueName": "Z:\\Curso Maxiprograma\\Nivel 1\\Ejercicio-6\\2-segundoEjercicio\\2-segundoEjercicio.csproj",
+        "projectName": "2-segundoEjercicio",
+        "projectPath": "Z:\\Curso Maxiprograma\\Nivel 1\\Ejercicio-6\\2-segundoEjercicio\\2-segundoEjercicio.csproj",
         "packagesPath": "C:\\Users\\joaco\\.nuget\\packages\\",
-        "outputPath": "Z:\\Curso Maxiprograma\\Nivel 1\\Ejercicio-5\\5-quintoEjercicio\\obj\\",
+        "outputPath": "Z:\\Curso Maxiprograma\\Nivel 1\\Ejercicio-6\\2-segundoEjercicio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
