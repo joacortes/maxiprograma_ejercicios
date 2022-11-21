@@ -1,0 +1,16 @@
+Z:\Curso Maxiprograma\Nivel 1\TPFinal_Cortes\obj\Debug\net5.0\TPFinal_Cortes.csproj.AssemblyReference.cache
+Z:\Curso Maxiprograma\Nivel 1\TPFinal_Cortes\obj\Debug\net5.0\TPFinal_Cortes.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Curso Maxiprograma\Nivel 1\TPFinal_Cortes\obj\Debug\net5.0\TPFinal_Cortes.AssemblyInfoInputs.cache
+Z:\Curso Maxiprograma\Nivel 1\TPFinal_Cortes\obj\Debug\net5.0\TPFinal_Cortes.AssemblyInfo.cs
+Z:\Curso Maxiprograma\Nivel 1\TPFinal_Cortes\obj\Debug\net5.0\TPFinal_Cortes.csproj.CoreCompileInputs.cache
+Z:\Curso Maxiprograma\Nivel 1\TPFinal_Cortes\bin\Debug\net5.0\TPFinal_Cortes.exe
+Z:\Curso Maxiprograma\Nivel 1\TPFinal_Cortes\bin\Debug\net5.0\TPFinal_Cortes.deps.json
+Z:\Curso Maxiprograma\Nivel 1\TPFinal_Cortes\bin\Debug\net5.0\TPFinal_Cortes.runtimeconfig.json
+Z:\Curso Maxiprograma\Nivel 1\TPFinal_Cortes\bin\Debug\net5.0\TPFinal_Cortes.runtimeconfig.dev.json
+Z:\Curso Maxiprograma\Nivel 1\TPFinal_Cortes\bin\Debug\net5.0\TPFinal_Cortes.dll
+Z:\Curso Maxiprograma\Nivel 1\TPFinal_Cortes\bin\Debug\net5.0\TPFinal_Cortes.pdb
+Z:\Curso Maxiprograma\Nivel 1\TPFinal_Cortes\obj\Debug\net5.0\TPFinal_Cortes.dll
+Z:\Curso Maxiprograma\Nivel 1\TPFinal_Cortes\obj\Debug\net5.0\refint\TPFinal_Cortes.dll
+Z:\Curso Maxiprograma\Nivel 1\TPFinal_Cortes\obj\Debug\net5.0\TPFinal_Cortes.pdb
+Z:\Curso Maxiprograma\Nivel 1\TPFinal_Cortes\obj\Debug\net5.0\TPFinal_Cortes.genruntimeconfig.cache
+Z:\Curso Maxiprograma\Nivel 1\TPFinal_Cortes\obj\Debug\net5.0\ref\TPFinal_Cortes.dll
